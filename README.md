@@ -1,0 +1,1 @@
+# vcrh-email-resources
